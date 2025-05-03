@@ -98,14 +98,7 @@ docker-compose up -d
 - **Clean Architecture**: Maintains separation of concerns and dependency flow
 - **Domain-Driven Design**: Focus on core domain logic and business rules
 
-## 🤝 Contributing
+## License
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details
+This project is licensed under the MIT License. See the [`LICENSE`](LICENSE) file for details.
