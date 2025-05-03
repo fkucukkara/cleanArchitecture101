@@ -1,0 +1,19 @@
+@API_HostAddress = http://localhost:5000
+
+GET {{API_HostAddress}}/v1/posts/
+Accept: application/json
+
+###
+
+POST {{API_HostAddress}}/v1/posts/
+Content-Type: application/json
+
+{
+    "content": "xUnit 101",
+    "createdOn": "2025-05-03",
+    "updatedOn": null,
+    "isDeleted": false,
+    "deletedOn": null
+}
+
+###
