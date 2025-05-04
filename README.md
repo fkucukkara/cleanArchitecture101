@@ -34,7 +34,7 @@ src/
 
 ## 🛠️ Technology Stack
 
-- .NET 7.0+
+- .NET 9.0
 - MediatR for CQRS
 - Entity Framework Core
 - SQL Server
@@ -46,7 +46,7 @@ src/
 ### Prerequisites
 
 - Docker Desktop
-- .NET 7.0 SDK
+- .NET 9.0 SDK
 - Visual Studio 2022 or VS Code
 
 ### Running the Application
